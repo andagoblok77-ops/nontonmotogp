@@ -41,7 +41,7 @@ export const DataStreams: Streams[] = [
     links: {
       id: "",
       key: "",
-      url: "https://s1.strea.ru/index.m3u8",
+      url: "https://s5.strea.ru/index.m3u8",
     },
     excerpt:
       "Situs ini menyediakan Links Streaming MotoGP 2026 Gratis dengan dukungan iklan pop-up. Ingin pengalaman tanpa iklan yang mengganggu? Kunjungi https://www.livemotogp.net untuk streaming lebih nyaman.",
@@ -109,7 +109,7 @@ export const DataStreams: Streams[] = [
     links: {
       id: "",
       key: "",
-      url: "https://s1.strea.ru/index.m3u8",
+      url: "https://s5.strea.ru/index.m3u8",
     },
     excerpt:
       "Situs ini menyediakan Links Streaming MotoGP 2026 Gratis dengan dukungan iklan pop-up. Ingin pengalaman tanpa iklan yang mengganggu? Kunjungi https://www.livemotogp.net untuk streaming lebih nyaman.",
