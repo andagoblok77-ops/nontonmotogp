@@ -68,7 +68,9 @@ export default function DashPlayer({ url, drmId, drmKey, poster }: Props) {
         height: "100%",
         autoPlay: true,
         mute: false,
-        poster,
+        // poster,
+        watermark: poster,
+        position: "top-right",
         plugins: [DashShakaPlayback, LevelSelector],
         levelSelectorConfig: {
           title: "Quality",
