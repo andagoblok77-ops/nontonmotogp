@@ -6,32 +6,32 @@ export default function Home() {
     {
       img: "/images/1.jpg",
       title: "Live Streaming MotoGP",
-      link: "https://www.zvstreams.com/search/label/Live%20MotoGP",
+      link: "https://zvstreams911.blogspot.com/",
     },
     {
       img: "/images/2.jpg",
       title: "Live Streaming MotoGP",
-      link: "https://www.zvstreams.com/search/label/Live%20MotoGP",
+      link: "https://zvstreams911.blogspot.com/",
     },
     {
       img: "/images/3.jpg",
       title: "Live Streaming MotoGP",
-      link: "https://www.zvstreams.com/search/label/Live%20MotoGP",
+      link: "https://zvstreams911.blogspot.com/",
     },
     {
       img: "/images/4.jpg",
       title: "Live Streaming MotoGP",
-      link: "https://www.zvstreams.com/search/label/Live%20MotoGP",
+      link: "https://zvstreams911.blogspot.com/",
     },
     {
       img: "/images/5.jpg",
       title: "Live Streaming MotoGP",
-      link: "https://www.zvstreams.com/search/label/Live%20MotoGP",
+      link: "https://zvstreams911.blogspot.com/",
     },
     {
       img: "/images/6.jpg",
       title: "Live Streaming MotoGP",
-      link: "https://www.zvstreams.com/search/label/Live%20MotoGP",
+      link: "https://zvstreams911.blogspot.com/",
     },
   ];
   return (

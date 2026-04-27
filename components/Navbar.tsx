@@ -112,7 +112,7 @@ export function Navbar({ className }: NavbarProps) {
               <DropdownMenuItem asChild>
                 <Link
                   target="_blank"
-                  href="https://www.nontonmotogp.my.id/search/label/Live%20MotoGP" 
+                  href="https://zvstreams911.blogspot.com/" 
                   className="text-muted-foreground"
                 >
                   MotoGP
@@ -121,7 +121,7 @@ export function Navbar({ className }: NavbarProps) {
               <DropdownMenuItem asChild>
                 <Link
                   target="_blank"
-                  href="https://www.nontonmotogp.my.id/search/label/Live%20WSBK"
+                  href="https://zvstreams911.blogspot.com/"
                   className="text-muted-foreground"
                 >
                   WSBK
@@ -220,7 +220,7 @@ export function Navbar({ className }: NavbarProps) {
                   <DropdownMenuItem asChild>
                     <Link
                       target="_blank"
-                      href="https://www.nontonmotogp.my.id/search/label/Live%20MotoGP"
+                      href="https://zvstreams911.blogspot.com/"
                       className="text-muted-foreground"
                     >
                       MotoGP
@@ -229,7 +229,7 @@ export function Navbar({ className }: NavbarProps) {
                   <DropdownMenuItem asChild>
                     <Link
                       target="_blank"
-                      href="https://www.nontonmotogp.my.id/search/label/Live%20WSBK"
+                      href="https://zvstreams911.blogspot.com/"
                       className="text-muted-foreground"
                     >
                       WSBK

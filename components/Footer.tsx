@@ -42,11 +42,11 @@ const Footer = () => {
             <BsTiktok /> TikTok
           </FooterLink>
 
-          <FooterLink href="https://www.zvstreams.com/search/label/Live%20MotoGP">
+          <FooterLink href="https://zvstreams911.blogspot.com/">
             <BsChat /> Kontak
           </FooterLink>
 
-          <FooterLink href="https://www.zvstreams.com/search/label/Live%20MotoGP">
+          <FooterLink href="https://zvstreams911.blogspot.com/">
             <BsLink /> Live Streaming
           </FooterLink>
         </div>
@@ -68,11 +68,11 @@ const Footer = () => {
             <BsTiktok /> TikTok
           </FooterLink>
 
-          <FooterLink href="https://www.zvstreams.com/search/label/Live%20MotoGP">
+          <FooterLink href="https://zvstreams911.blogspot.com/">
             <BsChat /> Kontak
           </FooterLink>
 
-          <FooterLink href="https://www.zvstreams.com/search/label/Live%20MotoGP">
+          <FooterLink href="https://zvstreams911.blogspot.com/">
             <BsLink /> Live Streaming
           </FooterLink>
         </div>
