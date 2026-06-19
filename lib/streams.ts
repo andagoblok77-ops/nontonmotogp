@@ -31,7 +31,7 @@ export const DataStreams: Streams[] = [
     },
     excerpt:
       "Situs ini menyediakan Links Streaming MotoGP 2026 Gratis dengan dukungan iklan pop-up. Ingin pengalaman tanpa iklan yang mengganggu? Kunjungi https://www.livemotogp.net untuk streaming lebih nyaman.",
-    image: "/images/image.jpg",
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAj5szpV2yyrvYG7XmBharSGCIcOnk1o-fPnrfRt4P1mRq6QuOtHaHuWb_Nso6pOx-l4reLGJ8obvzV1Gc0mB_w1QhV8qzOTv_T1OhNuNXJl0tzdd_Rml_-b-_fqfnTvzFp3KrRfLZY8v2jBNFOYadlHk5heEszO5l85XWL2A_V7gAk9MowHTFM793wD_s/s1536/ZVStreams%20live%20streaming%20MotoGP.png",
     date: "2026-01-13",
     author: "X",
     category: "Live MotoGP",
@@ -48,7 +48,7 @@ export const DataStreams: Streams[] = [
     },
     excerpt:
       "Situs ini menyediakan Links Streaming MotoGP 2026 Gratis dengan dukungan iklan pop-up. Ingin pengalaman tanpa iklan yang mengganggu? Kunjungi https://www.livemotogp.net untuk streaming lebih nyaman.",
-    image: "/images/image.jpg",
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAj5szpV2yyrvYG7XmBharSGCIcOnk1o-fPnrfRt4P1mRq6QuOtHaHuWb_Nso6pOx-l4reLGJ8obvzV1Gc0mB_w1QhV8qzOTv_T1OhNuNXJl0tzdd_Rml_-b-_fqfnTvzFp3KrRfLZY8v2jBNFOYadlHk5heEszO5l85XWL2A_V7gAk9MowHTFM793wD_s/s1536/ZVStreams%20live%20streaming%20MotoGP.png",
     date: "2026-01-13",
     author: "X",
     category: "Live MotoGP",
@@ -68,7 +68,7 @@ export const DataStreams: Streams[] = [
     },
     excerpt:
       "Situs ini menyediakan Links Streaming MotoGP 2026 Gratis dengan dukungan iklan pop-up. Ingin pengalaman tanpa iklan yang mengganggu? Kunjungi https://www.livemotogp.net untuk streaming lebih nyaman.",
-    image: "/images/image.jpg",
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAj5szpV2yyrvYG7XmBharSGCIcOnk1o-fPnrfRt4P1mRq6QuOtHaHuWb_Nso6pOx-l4reLGJ8obvzV1Gc0mB_w1QhV8qzOTv_T1OhNuNXJl0tzdd_Rml_-b-_fqfnTvzFp3KrRfLZY8v2jBNFOYadlHk5heEszO5l85XWL2A_V7gAk9MowHTFM793wD_s/s1536/ZVStreams%20live%20streaming%20MotoGP.png",
     date: "2026-01-13",
     author: "X",
     category: "Live MotoGP",
@@ -85,7 +85,7 @@ export const DataStreams: Streams[] = [
     },
     excerpt:
       "Situs ini menyediakan Links Streaming MotoGP 2026 Gratis dengan dukungan iklan pop-up. Ingin pengalaman tanpa iklan yang mengganggu? Kunjungi https://www.livemotogp.net untuk streaming lebih nyaman.",
-    image: "/images/image.jpg",
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAj5szpV2yyrvYG7XmBharSGCIcOnk1o-fPnrfRt4P1mRq6QuOtHaHuWb_Nso6pOx-l4reLGJ8obvzV1Gc0mB_w1QhV8qzOTv_T1OhNuNXJl0tzdd_Rml_-b-_fqfnTvzFp3KrRfLZY8v2jBNFOYadlHk5heEszO5l85XWL2A_V7gAk9MowHTFM793wD_s/s1536/ZVStreams%20live%20streaming%20MotoGP.png",
     date: "2026-01-13",
     author: "X",
     category: "Live MotoGP",
@@ -102,7 +102,7 @@ export const DataStreams: Streams[] = [
     },
     excerpt:
       "Situs ini menyediakan Links Streaming MotoGP 2026 Gratis dengan dukungan iklan pop-up. Ingin pengalaman tanpa iklan yang mengganggu? Kunjungi https://www.livemotogp.net untuk streaming lebih nyaman.",
-    image: "/images/image.jpg",
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAj5szpV2yyrvYG7XmBharSGCIcOnk1o-fPnrfRt4P1mRq6QuOtHaHuWb_Nso6pOx-l4reLGJ8obvzV1Gc0mB_w1QhV8qzOTv_T1OhNuNXJl0tzdd_Rml_-b-_fqfnTvzFp3KrRfLZY8v2jBNFOYadlHk5heEszO5l85XWL2A_V7gAk9MowHTFM793wD_s/s1536/ZVStreams%20live%20streaming%20MotoGP.png",
     date: "2026-01-13",
     author: "X",
     category: "Live MotoGP",
@@ -119,7 +119,7 @@ export const DataStreams: Streams[] = [
     },
     excerpt:
       "Situs ini menyediakan Links Streaming MotoGP 2026 Gratis dengan dukungan iklan pop-up. Ingin pengalaman tanpa iklan yang mengganggu? Kunjungi https://www.livemotogp.net untuk streaming lebih nyaman.",
-    image: "/images/image.jpg",
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAj5szpV2yyrvYG7XmBharSGCIcOnk1o-fPnrfRt4P1mRq6QuOtHaHuWb_Nso6pOx-l4reLGJ8obvzV1Gc0mB_w1QhV8qzOTv_T1OhNuNXJl0tzdd_Rml_-b-_fqfnTvzFp3KrRfLZY8v2jBNFOYadlHk5heEszO5l85XWL2A_V7gAk9MowHTFM793wD_s/s1536/ZVStreams%20live%20streaming%20MotoGP.png",
     date: "2026-01-13",
     author: "X",
     category: "Live WSBK",
@@ -139,7 +139,7 @@ export const DataStreams: Streams[] = [
     },
     excerpt:
       "Situs ini menyediakan Links Streaming MotoGP 2026 Gratis dengan dukungan iklan pop-up. Ingin pengalaman tanpa iklan yang mengganggu? Kunjungi https://www.livemotogp.net untuk streaming lebih nyaman.",
-    image: "/images/image.jpg",
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAj5szpV2yyrvYG7XmBharSGCIcOnk1o-fPnrfRt4P1mRq6QuOtHaHuWb_Nso6pOx-l4reLGJ8obvzV1Gc0mB_w1QhV8qzOTv_T1OhNuNXJl0tzdd_Rml_-b-_fqfnTvzFp3KrRfLZY8v2jBNFOYadlHk5heEszO5l85XWL2A_V7gAk9MowHTFM793wD_s/s1536/ZVStreams%20live%20streaming%20MotoGP.png",
     date: "2026-01-13",
     author: "X",
     category: "Live WSBK",
