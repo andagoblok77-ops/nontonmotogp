@@ -191,7 +191,7 @@ export default async function MotoGP({ params }: Props) {
               </Link>
 
               <Link
-                href="https://t.me/+CBkG1-074V80Mjdl"
+                href="https://t.me/+A_4Gjmv_RSwzODhl"
                 target="_blank"
                 className="w-full lg:w-auto"
               >
