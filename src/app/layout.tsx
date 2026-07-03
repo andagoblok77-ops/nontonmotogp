@@ -62,7 +62,7 @@ export const metadata: Metadata = {
       "Nonton live streaming MotoGP 2026, jadwal race terbaru, klasemen pembalap, hasil balapan, dan berita MotoGP update setiap hari. Kunjungi juga LIVEMotoGP.NET untuk pengalaman streaming tanpa gangguan.",
     images: [
       {
-        url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYPQb3VBdI7_boCmAmmquYcKfZKFGTwhCHwt8isvUBK5dVEwHB1ysQPnx4qXxGFtGmB6KFJ8Q6lIG9zsPB1854njppVB0qj063JlbD-6K6lUl-GbB0Sih-MDWJQDuGZur4pX9MuSlHwLn2AWwNf7WKfkWuOQGoqNyoWCLxxdokh9UrRkFhyPyea8twI70N/s1620/Picsart_25-11-15_15-44-41-371.jpg", 
+        url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMvTBRF-gxwFupHN7X_9pRbTp-z5l8pAZQ6shsKMOlbZPe_VRwkp0Qkib4Pk7q5lCO6rlc4H4cg6curkTLfcDLaf-QLGFk7AnbDDXwHrdohuFc7fpH3LwLZ7Tq1BcFuJVJfEXPQiXJyFCzMr185jUee0GXPe9jQPWtwTWlttA-cfOOUlC8jiiF0f70VWk/s512/android-chrome-512x512.png", 
         width: 1200,
         height: 630,
         alt: "Live Streaming MotoGP 2026",
@@ -75,12 +75,12 @@ export const metadata: Metadata = {
     title: "NONTONMotoGP - Live Streaming MotoGP 2026",
     description:
       "Nonton live streaming MotoGP 2026, jadwal race terbaru, klasemen pembalap, hasil balapan, dan berita MotoGP update setiap hari. Kunjungi juga LIVEMotoGP.NET untuk pengalaman streaming tanpa gangguan.",
-    images: ["https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYPQb3VBdI7_boCmAmmquYcKfZKFGTwhCHwt8isvUBK5dVEwHB1ysQPnx4qXxGFtGmB6KFJ8Q6lIG9zsPB1854njppVB0qj063JlbD-6K6lUl-GbB0Sih-MDWJQDuGZur4pX9MuSlHwLn2AWwNf7WKfkWuOQGoqNyoWCLxxdokh9UrRkFhyPyea8twI70N/s1620/Picsart_25-11-15_15-44-41-371.jpg"],
+    images: ["https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMvTBRF-gxwFupHN7X_9pRbTp-z5l8pAZQ6shsKMOlbZPe_VRwkp0Qkib4Pk7q5lCO6rlc4H4cg6curkTLfcDLaf-QLGFk7AnbDDXwHrdohuFc7fpH3LwLZ7Tq1BcFuJVJfEXPQiXJyFCzMr185jUee0GXPe9jQPWtwTWlttA-cfOOUlC8jiiF0f70VWk/s512/android-chrome-512x512.png"],
   },
 
   icons: {
-    icon: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYPQb3VBdI7_boCmAmmquYcKfZKFGTwhCHwt8isvUBK5dVEwHB1ysQPnx4qXxGFtGmB6KFJ8Q6lIG9zsPB1854njppVB0qj063JlbD-6K6lUl-GbB0Sih-MDWJQDuGZur4pX9MuSlHwLn2AWwNf7WKfkWuOQGoqNyoWCLxxdokh9UrRkFhyPyea8twI70N/s1620/Picsart_25-11-15_15-44-41-371.jpg",
-    apple: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYPQb3VBdI7_boCmAmmquYcKfZKFGTwhCHwt8isvUBK5dVEwHB1ysQPnx4qXxGFtGmB6KFJ8Q6lIG9zsPB1854njppVB0qj063JlbD-6K6lUl-GbB0Sih-MDWJQDuGZur4pX9MuSlHwLn2AWwNf7WKfkWuOQGoqNyoWCLxxdokh9UrRkFhyPyea8twI70N/s1620/Picsart_25-11-15_15-44-41-371.jpg",
+    icon: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMvTBRF-gxwFupHN7X_9pRbTp-z5l8pAZQ6shsKMOlbZPe_VRwkp0Qkib4Pk7q5lCO6rlc4H4cg6curkTLfcDLaf-QLGFk7AnbDDXwHrdohuFc7fpH3LwLZ7Tq1BcFuJVJfEXPQiXJyFCzMr185jUee0GXPe9jQPWtwTWlttA-cfOOUlC8jiiF0f70VWk/s512/android-chrome-512x512.png",
+    apple: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMvTBRF-gxwFupHN7X_9pRbTp-z5l8pAZQ6shsKMOlbZPe_VRwkp0Qkib4Pk7q5lCO6rlc4H4cg6curkTLfcDLaf-QLGFk7AnbDDXwHrdohuFc7fpH3LwLZ7Tq1BcFuJVJfEXPQiXJyFCzMr185jUee0GXPe9jQPWtwTWlttA-cfOOUlC8jiiF0f70VWk/s512/android-chrome-512x512.png",
   },
 
   viewport: {
