@@ -62,7 +62,7 @@ export const metadata: Metadata = {
       "Nonton live streaming MotoGP 2026, jadwal race terbaru, klasemen pembalap, hasil balapan, dan berita MotoGP update setiap hari. Kunjungi juga LIVEMotoGP.NET untuk pengalaman streaming tanpa gangguan.",
     images: [
       {
-        url: "/og-image.png", 
+        url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYPQb3VBdI7_boCmAmmquYcKfZKFGTwhCHwt8isvUBK5dVEwHB1ysQPnx4qXxGFtGmB6KFJ8Q6lIG9zsPB1854njppVB0qj063JlbD-6K6lUl-GbB0Sih-MDWJQDuGZur4pX9MuSlHwLn2AWwNf7WKfkWuOQGoqNyoWCLxxdokh9UrRkFhyPyea8twI70N/s1620/Picsart_25-11-15_15-44-41-371.jpg", 
         width: 1200,
         height: 630,
         alt: "Live Streaming MotoGP 2026",
@@ -75,12 +75,12 @@ export const metadata: Metadata = {
     title: "NONTONMotoGP - Live Streaming MotoGP 2026",
     description:
       "Nonton live streaming MotoGP 2026, jadwal race terbaru, klasemen pembalap, hasil balapan, dan berita MotoGP update setiap hari. Kunjungi juga LIVEMotoGP.NET untuk pengalaman streaming tanpa gangguan.",
-    images: ["/og-image.png"],
+    images: ["https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYPQb3VBdI7_boCmAmmquYcKfZKFGTwhCHwt8isvUBK5dVEwHB1ysQPnx4qXxGFtGmB6KFJ8Q6lIG9zsPB1854njppVB0qj063JlbD-6K6lUl-GbB0Sih-MDWJQDuGZur4pX9MuSlHwLn2AWwNf7WKfkWuOQGoqNyoWCLxxdokh9UrRkFhyPyea8twI70N/s1620/Picsart_25-11-15_15-44-41-371.jpg"],
   },
 
   icons: {
-    icon: "/og-image.png",
-    apple: "/og-image.png",
+    icon: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYPQb3VBdI7_boCmAmmquYcKfZKFGTwhCHwt8isvUBK5dVEwHB1ysQPnx4qXxGFtGmB6KFJ8Q6lIG9zsPB1854njppVB0qj063JlbD-6K6lUl-GbB0Sih-MDWJQDuGZur4pX9MuSlHwLn2AWwNf7WKfkWuOQGoqNyoWCLxxdokh9UrRkFhyPyea8twI70N/s1620/Picsart_25-11-15_15-44-41-371.jpg",
+    apple: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYPQb3VBdI7_boCmAmmquYcKfZKFGTwhCHwt8isvUBK5dVEwHB1ysQPnx4qXxGFtGmB6KFJ8Q6lIG9zsPB1854njppVB0qj063JlbD-6K6lUl-GbB0Sih-MDWJQDuGZur4pX9MuSlHwLn2AWwNf7WKfkWuOQGoqNyoWCLxxdokh9UrRkFhyPyea8twI70N/s1620/Picsart_25-11-15_15-44-41-371.jpg",
   },
 
   viewport: {
