@@ -24,7 +24,7 @@ export const DataStreams: Streams[] = [
     links: {
         id: "7eea72d6075245a99ee3255603d58853",
         key: "6848ef60575579bf4d415db1032153ed",
-        url: "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd",
+        url: "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
       // id: "1539f043249e413d91906036f305831e",
       // key: "671e24fd8d234c7f38d85055815f902a",
       // url: "https://cors-proxy.wangzhishi.net/https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd",
@@ -64,7 +64,7 @@ export const DataStreams: Streams[] = [
       // url: "https://cors-proxy.wangzhishi.net/https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd",
        id: "7eea72d6075245a99ee3255603d58853",
         key: "6848ef60575579bf4d415db1032153ed",
-        url: "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd",
+        url: "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
     },
     excerpt:
       "Situs ini menyediakan Links Streaming MotoGP 2026 Gratis dengan dukungan iklan pop-up. Ingin pengalaman tanpa iklan yang mengganggu? Kunjungi https://www.livemotogp.net untuk streaming lebih nyaman.",
@@ -132,7 +132,7 @@ export const DataStreams: Streams[] = [
     links: {
         id: "7eea72d6075245a99ee3255603d58853",
         key: "6848ef60575579bf4d415db1032153ed",
-        url: "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd",
+        url: "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
       // id: "ec7ee27d83764e4b845c48cca31c8eef",
       // key: "9c0e4191203fccb0fde34ee29999129e",
       // url: "https://cors-proxy.wangzhishi.net/https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd",
