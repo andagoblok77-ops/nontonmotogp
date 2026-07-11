@@ -11,9 +11,8 @@ import ButtonSocial from "./ButtonSocial";
 const servers = [
   {
     name: "SERVER UTAMA",
-    url: "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd",
-    id: "7eea72d6075245a99ee3255603d58853",
-    key: "6848ef60575579bf4d415db1032153ed",
+    url: "https://s1.strea.ru/index.m3u8",
+    type: "hls"
   },
   {
     name: "SERVER IOS",
