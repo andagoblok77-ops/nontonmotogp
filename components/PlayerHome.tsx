@@ -17,10 +17,8 @@ const servers = [
   },
   {
     name: "SERVER IOS",
-    type: "dash",
-    url: "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd",
-    id: "7eea72d6075245a99ee3255603d58853",
-    key: "6848ef60575579bf4d415db1032153ed",
+    type: "hls",
+    url: "https://s1.strea.ru/index.m3u8",
   },
   {
     name: "SERVER PALING LANCAR",

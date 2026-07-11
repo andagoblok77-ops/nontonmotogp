@@ -12,7 +12,7 @@ import {
 const socials = [
   {
     name: "TELEGRAM",
-    href: "https://t.me/+T2Wq8b530IcxZDU1",
+    href: "https://livemotogpsocial.blogspot.com",
     icon: BsTelegram,
   },
   {
